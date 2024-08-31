@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let intervalId;
 
     const lyrics = [
-        { time: 0, text: "....." },
+        { time: 0, text: "Hari ini,saya langitkan semua doa terbaik saya untuk awak .Semoga hal-hal yang membuatkan awak jatuh menjadi alasan untuk awak terus kuat menempuh ujian hidup. Semoga Allah sentiasa melindungi awak dimana pun awak berada, semoga hari-hari awak selalu di iringi rasa cinta yang tidak terbatas . Dan Semoga senyum kedua orang tua awak yang selalu awak usahakan itu kini sudah terlaksanakan ." },
         { time: 3, text: "Dapatkah aku memeluknya?" },
         { time: 6, text: "Menjadikan bintang di surga" },
         { time: 9, text: "Memberikan warna yang bisa menjadikan indah" },
