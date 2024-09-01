@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { time: 33, text: "Menjadikan bintang-bintang di surga" },
         { time: 37, text: "Memberikan warna yang bisa dan teruslah bisa menjadikan indah" },
         { time: 44, text: "....." },
+        { time: 47, text: "I LOVE YOU :)" },
         { time: 55, text: "Hari ini,saya langitkan semua doa terbaik saya untuk awak .Semoga hal-hal yang membuatkan awak jatuh menjadi alasan untuk awak terus kuat menempuh ujian hidup. Semoga Allah sentiasa melindungi awak dimana pun awak berada, semoga hari-hari awak selalu di iringi rasa cinta yang tidak terbatas . Dan Semoga senyum kedua orang tua awak yang selalu awak usahakan itu kini sudah terlaksanakan ." },
     ];
 
